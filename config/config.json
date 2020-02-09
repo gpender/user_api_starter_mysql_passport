@@ -1,0 +1,29 @@
+{
+  "development": {
+    "PORT":2000,
+    "username": "fredbloggs",
+    "password": "password",
+    "database": "dbasename",
+    "host": "myhost.com",
+    "dialect": "mysql",
+    "JWT_SECRET":"mysecret"
+  },
+  "test": {
+    "PORT":2000,
+    "username": "fredbloggs",
+    "password": "password",
+    "database": "dbasename",
+    "host": "myhost.com",
+    "dialect": "mysql",
+    "JWT_SECRET":"mysecret"
+  },
+  "production": {
+    "PORT":2000,
+    "username": "fredbloggs",
+    "password": "password",
+    "database": "dbasename",
+    "host": "myhost.com",
+    "dialect": "mysql",
+    "JWT_SECRET":"mysecret"
+  }
+}
